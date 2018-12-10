@@ -3,7 +3,7 @@
 Für Slides und Code Beispiele, siehe [Lektion 11](../../../fhnw-syspr/blob/master/11/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/TwRjaKp4).*
 
 ### a) *curses* Library, 45'
 * Lesen Sie diese PDF Tutorials zur *curses* Bibliothek: http://heather.cs.ucdavis.edu/~matloff/UnixAndC/CLanguage/Curses.pdf und zu [Games mit ncurses](https://www.viget.com/articles/game-programming-in-c-with-the-ncurses-library/).
